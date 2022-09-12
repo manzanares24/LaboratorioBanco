@@ -9,5 +9,8 @@ package laboratoriobanco;
  * @author pc
  */
 public class Cuenta {
+    private int numCuenta;
+    private String Cliente;
+    
     
 }
